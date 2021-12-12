@@ -1,5 +1,5 @@
 ## 김경태 Gyeongtae Kim
-안녕하세요👋 자신에게 도전하고, 방향성을 제시하며, 사람들과 소통을 통해 개선해나가는 개발자,고등학생 모바일 앱 개발자 '김경태'입니다!   
+안녕하세요👋 자신에게 도전하고, 방향성을 제시하며, 사람들과 소통을 통해 개선해나가는 개발자, 고등학생 모바일 앱 개발자 '김경태'입니다!   
 Hello!👋 I'm a Mobile SW Engineer as a Challenger, Presenter, and Communicative Leader, Gyeongtae Kim.
 I'm also high school student in Republic of Korea.
 
