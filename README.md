@@ -5,7 +5,7 @@ I'm also Highschool student in Republic of Korea.
 
 ### Mobile SW Engineer
 > C, C#(Unity), Dart(Flutter), Python
-- **Portfolio** : 
+- **Portfolio** : <https://wheat-gambler-8c1.notion.site/Gyeongtae-Kim-4541762b43194fd2861a09a72e20c5c2>
 - **Email** : <codingpelican@gmail.com>
 - **Github** : <https://github.com/Coding-Pelican>
 - **Instagram** : [@lionstars_0322](https://www.instagram.com/lionstars_0322) [@coding_pelican](https://www.instagram.com/coding_pelican)
@@ -13,7 +13,7 @@ I'm also Highschool student in Republic of Korea.
 - **Youtube** : [다새 Dasae](https://youtube.com/channel/UCZfDHIeuvgIl0NHbwe8T7aw)
 - **Shutterstock** : [DASAE](https://www.shutterstock.com/g/DASAE)
 
-[Show details...]()
+[Show details...](https://wheat-gambler-8c1.notion.site/Gyeongtae-Kim-4541762b43194fd2861a09a72e20c5c2)
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=Coding-Pelican&title_color=0067a3)](https://github.com/Coding-Pelican)
 
