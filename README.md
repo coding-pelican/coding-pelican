@@ -7,7 +7,7 @@ I'm also Highschool student in Republic of Korea.
 > C, C#(Unity), Dart(Flutter), Python
 - **Portfolio** : https://wheat-gambler-8c1.notion.site/Gyeongtae-Kim-27dd835dcf7442b9a2bf9631eb27978e
 - **Email** : <codingpelican@gmail.com>
-- **Github** : <https://github.com/Coding-Pelican>
+- **GitHub** : <https://github.com/Coding-Pelican>
 - **Instagram** : [@lionstars_0322](https://www.instagram.com/lionstars_0322) [@coding_pelican](https://www.instagram.com/coding_pelican)
 - **Twitter** : [@lionstars_0322](https://twitter.com/lionstars_0322)
 - **Youtube** : [다새 Dasae](https://youtube.com/channel/UCZfDHIeuvgIl0NHbwe8T7aw)
