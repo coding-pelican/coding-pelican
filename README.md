@@ -8,8 +8,8 @@ I'm also Highschool student in Republic of Korea.
 - **Portfolio** : https://wheat-gambler-8c1.notion.site/Gyeongtae-Kim-27dd835dcf7442b9a2bf9631eb27978e
 - **Email** : <codingpelican@gmail.com>
 - **GitHub** : <https://github.com/Coding-Pelican>
-- **Instagram** : [@lionstars_0322](https://www.instagram.com/lionstars_0322) [@coding_pelican](https://www.instagram.com/coding_pelican)
-- **Twitter** : [@lionstars_0322](https://twitter.com/lionstars_0322)
+- **Instagram** : [@dev.dasae](https://www.instagram.com/dev.dasae) [@coding_pelican](https://www.instagram.com/coding_pelican)
+- **Twitter** : [@dev_dasae](https://twitter.com/dev_dasae)
 - **Youtube** : [다새 Dasae](https://youtube.com/channel/UCZfDHIeuvgIl0NHbwe8T7aw)
 - **Shutterstock** : [DASAE](https://www.shutterstock.com/g/DASAE)
 
