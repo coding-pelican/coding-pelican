@@ -6,7 +6,7 @@ I'm also Highschool student in Republic of Korea.
 ### Mobile SW Engineer
 > C, C#(Unity), Dart(Flutter), Python
 - **Portfolio** : https://wheat-gambler-8c1.notion.site/Gyeongtae-Kim-27dd835dcf7442b9a2bf9631eb27978e
-- **Email** : <codingpelican@gmail.com>
+- **Email** : <codingpelican@plodio.com>
 - **GitHub** : <https://github.com/Coding-Pelican>
 - **Instagram** : [@dev.dasae](https://www.instagram.com/dev.dasae) [@coding_pelican](https://www.instagram.com/coding_pelican)
 - **Twitter** : [@dev_dasae](https://twitter.com/dev_dasae)
