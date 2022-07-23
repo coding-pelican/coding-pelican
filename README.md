@@ -11,6 +11,7 @@ Hello!👋 I'm a Mobile SW Engineer as a Challenger, Presenter, and Communicativ
 - **Twitter** : [@dev_dasae](https://twitter.com/dev_dasae)
 - **Youtube** : [다새 Dasae](https://youtube.com/channel/UCZfDHIeuvgIl0NHbwe8T7aw)
 - **Shutterstock** : [DASAE](https://www.shutterstock.com/g/DASAE)
+- **itch.io** : [Dev.Dasae](https://coding-pelican.itch.io/)
 
 [Show details...](https://wheat-gambler-8c1.notion.site/Gyeongtae-Kim-27dd835dcf7442b9a2bf9631eb27978e)
 
