@@ -1,7 +1,6 @@
 ## 김경태 Gyeongtae Kim
-안녕하세요👋 자신에게 도전하고, 방향성을 제시하며, 사람들과의 소통을 통해 개선해나가는 개발자, 고등학생 모바일 앱 개발자 '김경태'입니다!   
+안녕하세요👋 자신에게 도전하고, 방향성을 제시하며, 사람들과의 소통을 통해 개선해나가는 개발자, 소프트웨어 엔지니어 '김경태'입니다!   
 Hello!👋 I'm a Mobile SW Engineer as a Challenger, Presenter, and Communicative Leader, Gyeongtae Kim.
-I'm also Highschool student in Republic of Korea.
 
 ### Mobile SW Engineer
 > C, C#(Unity), Dart(Flutter), Python
