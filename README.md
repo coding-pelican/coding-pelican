@@ -10,8 +10,9 @@ Hello!👋 I'm a Mobile SW Engineer as a Challenger, Presenter, and Communicativ
 - **itch.io** : [Dev.Dasae](https://coding-pelican.itch.io/)
 - **GitHub** : <https://github.com/Coding-Pelican>
 - **Instagram** : [@dev.dasae](https://www.instagram.com/dev.dasae)
+- **Hashnode** : [Gyeongtae's Blog](https://dasae.hashnode.dev/)
 
-[Show details...](https://wheat-gambler-8c1.notion.site/Gyeongtae-Kim-27dd835dcf7442b9a2bf9631eb27978e)
+[Show details...](https://dasae.hashnode.dev/)
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=Coding-Pelican&title_color=0067a3)](https://github.com/Coding-Pelican)
 
