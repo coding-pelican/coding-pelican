@@ -9,8 +9,7 @@ Hello!👋 I'm a Mobile SW Engineer as a Challenger, Presenter, and Communicativ
 - **Email** : <codingpelican@plodio.com>
 - **itch.io** : [Dev.Dasae](https://coding-pelican.itch.io/)
 - **GitHub** : <https://github.com/Coding-Pelican>
-- **Instagram** : [@dev.dasae](https://www.instagram.com/dev.dasae) [@coding_pelican](https://www.instagram.com/coding_pelican)
-- **Shutterstock** : [DASAE](https://www.shutterstock.com/g/DASAE)
+- **Instagram** : [@dev.dasae](https://www.instagram.com/dev.dasae)
 
 [Show details...](https://wheat-gambler-8c1.notion.site/Gyeongtae-Kim-27dd835dcf7442b9a2bf9631eb27978e)
 
