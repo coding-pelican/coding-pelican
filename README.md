@@ -2,8 +2,9 @@
 안녕하세요👋 자신에게 도전하고, 방향성을 제시하며, 사람들과의 소통을 통해 개선해나가는 개발자,  
 '플로디오'에서 가치있는 변화를 빌드하는 소프트웨어 엔지니어 '김경태'입니다!  
   
-Hello!👋 I'm a Mobile SW Engineer as a Challenger, Presenter, and Communicative Leader, Gyeongtae Kim.
-
+Hello!👋 I'm a Mobile SW Engineer as a Challenger, Presenter, and Communicative Leader, Gyeongtae Kim.  
+ I build valuable change.  
+ 
 ### Mobile SW Engineer
 > C, C#(Unity), Dart(Flutter), Python
 - **Email** : <codingpelican@plodio.com>
