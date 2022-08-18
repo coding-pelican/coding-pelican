@@ -6,7 +6,7 @@ Hello!👋 I'm a SW Engineer as a Challenger, Presenter, and Communicative Leade
 I build valuable change with Plodio.   
  
 ### Mobile SW Engineer
-> C, C#(Unity), Dart(Flutter), Python
+> C/C++, C#(Unity), Dart(Flutter), Python
 - **Email** : <codingpelican@plodio.com>
 - **itch.io** : [Dev.Dasae](https://coding-pelican.itch.io/)
 - **GitHub** : <https://github.com/Coding-Pelican>
