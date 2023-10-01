@@ -15,7 +15,7 @@ I build valuable change with Plodio.
 
 [Show details...](https://dasae.hashnode.dev/)
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=Coding-Pelican&title_color=0067a3)](https://github.com/Coding-Pelican)
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=Coding-Pelican&count_private=true&title_color=0067a3)](https://github.com/Coding-Pelican)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Pelican&title_color=0067a3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
