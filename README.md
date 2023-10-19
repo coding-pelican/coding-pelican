@@ -8,8 +8,8 @@ I build valuable change with Plodio.
 ### Mobile SW Engineer
 > C/C++, C#(Unity), Python
 - **Email** : <codingpelican@gmail.com>
-- **itch.io** : [Dev.Dasae](https://coding-pelican.itch.io/)
 - **GitHub** : <https://github.com/coding-pelican>
+- **itch.io** : [Dev.Dasae](https://coding-pelican.itch.io/)
 - **Instagram** : [@dev.dasae](https://www.instagram.com/dev.dasae)
 - **Hashnode** : [Gyeongtae's Blog](https://dasae.hashnode.dev/)
 
