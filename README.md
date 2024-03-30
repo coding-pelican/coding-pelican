@@ -5,7 +5,7 @@
 Hello!👋 I am Gyeongtae Kim, the tech lead of Plodio, a challenger, presenter, and communicative Leader.  
 I build valuable change with Plodio.   
  
-### Mobile SW Engineer
+### Game Engine SW Engineer
 > C/C++, C#(Unity), Python
 - **Email** : <codingpelican@gmail.com>
 - **GitHub** : <https://github.com/coding-pelican>
