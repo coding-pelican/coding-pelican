@@ -15,12 +15,14 @@ I build valuable change with Plodio.
 
 [Show details...](https://dasae.hashnode.dev/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Pelican&title_color=0067a3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-pelican&title_color=0067a3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoding-Pelican)](https://github.com/Coding-Pelican)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=coding-pelican&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoding-pelican)](https://github.com/coding-pelican)
 
 <!--
-**Coding-Pelican/Coding-Pelican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**coding-pelican/coding-pelican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
