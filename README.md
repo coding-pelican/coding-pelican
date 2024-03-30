@@ -17,7 +17,7 @@ I build valuable change with Plodio.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-pelican&title_color=0067a3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=coding-pelican&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coding-pelican&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoding-pelican)](https://github.com/coding-pelican)
 
