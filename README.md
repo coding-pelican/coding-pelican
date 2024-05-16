@@ -28,9 +28,7 @@ I build valuable change with Plodio.
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coding-pelican&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="316" alt="activity-graph graph"  />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coding-pelican&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
