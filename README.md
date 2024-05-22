@@ -51,15 +51,18 @@ coding_pelican
 - **Instagram** : [@dev.dasae](https://www.instagram.com/dev.dasae)
 - **Hashnode** : [Gyeongtae's Blog](https://dasae.hashnode.dev/)
 
-<!-- 
+<!--
 [Show details...](https://dasae.hashnode.dev/)
+-->
 
 ###
 
+<!--
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=coding-pelican&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-pelican&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
+-->
 
 <!--
 <img src="https://streak-stats.demolab.com?user=coding-pelican&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j" height="150" alt="streak graph"  />
@@ -67,10 +70,15 @@ coding_pelican
 
 ###
 
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coding-pelican&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
+<!--
 ---
+-->
 
+<!--
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
   <img width="12" />
@@ -80,9 +88,11 @@ coding_pelican
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
 </div>
+-->
 
 ###
 
+<!--
 <div align="left">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" height="30" alt="opengl logo"  />
   <img width="12" />
@@ -92,9 +102,11 @@ coding_pelican
   <img width="12" />
   <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge" height="30" alt="cmake logo"  />
 </div>
+-->
 
 ###
 
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -122,9 +134,11 @@ coding_pelican
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
 </div>
+-->
 
 ###
 
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -146,9 +160,13 @@ coding_pelican
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
 </div>
+-->
 
+<!--
 ---
+-->
 
+<!--
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
