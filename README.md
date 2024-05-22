@@ -1,14 +1,49 @@
 ## 김경태 Gyeongtae Kim
 
-안녕하세요👋 자신에게 도전하고, 방향성을 제시하며, 사람들과의 소통을 통해 개선해나가는 개발자,  
-'플로디오'에서 가치있는 변화를 빌드하는 소프트웨어 엔지니어 '김경태'입니다!  
-  
-Hello!👋 I am Gyeongtae Kim, the tech lead of Plodio, a challenger, presenter, and communicative Leader.  
-I build valuable change with Plodio.   
- 
-### Game Engine SW Engineer
+```c
+SWEngineer* coding_pelican = new_SWEngineer(
+  person: new_Person(
+    behaviour: (Behaviour*)new_PelicanLike(
+      name: "Gyeongtae Kim"
+    ),
+    hobby:  "📸Photography"
+            "🏃🏻Running & Jogging"
+            "🗣️Learning languages"
+  ),
+  mainDomain: "Game Engine Development",
+  skills: (SkillList){
+    .languages = (Skill*)(Language[]){
+      C, CPlusPlus, CSharp, Python
+    },
+    .engines = (Skill*)(Engine[]){
+      Unity, Godot
+    },
+    .tools = (Skill*)(Tool[]){
+      Git, CMake, VSCode
+    }
+  }
+);
 
-> C/C++, C#(Unity), Python
+FoodList_Append(
+  coding_pelican->person->favoriteFoods_,
+  new_Food("🍕Pizza")
+);
+FoodList_Append(
+  coding_pelican->person->favoriteFoods_,
+  new_Food("🐔Chicken")
+);
+
+coding_pelican
+  ->person
+  ->behaviour
+  ->IFoodEatable.EatFood(
+    (IFoodEatable*)coding_pelican->person->behaviour,
+    coding_pelican->person->favoriteFoods_->foods[0][0]
+  );
+
+// output:
+// 'Gyeongtae Kim' swallows '🍕Pizza' without chewing!
+```
 
 - **Email** : <codingpelican@gmail.com>
 - **GitHub** : <https://github.com/coding-pelican>
@@ -16,6 +51,7 @@ I build valuable change with Plodio.
 - **Instagram** : [@dev.dasae](https://www.instagram.com/dev.dasae)
 - **Hashnode** : [Gyeongtae's Blog](https://dasae.hashnode.dev/)
 
+<!-- 
 [Show details...](https://dasae.hashnode.dev/)
 
 ###
@@ -113,7 +149,6 @@ I build valuable change with Plodio.
 
 ---
 
-<!--
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
