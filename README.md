@@ -6,9 +6,9 @@ SWEngineer* coding_pelican = new_SWEngineer(
     behaviour: (Behaviour*)new_PelicanLike(
       name: "Gyeongtae Kim"
     ),
-    hobby:  "📸Photography"
-            "🏃🏻Running & Jogging"
-            "🗣️Learning languages"
+    hobby:  "📸 Photography"
+            "🏃🏻 Running & Jogging"
+            "🗣️ Learning languages"
   ),
   mainDomain: "Game Engine Development",
   skills: (SkillList){
@@ -21,7 +21,10 @@ SWEngineer* coding_pelican = new_SWEngineer(
     .tools = (Skill*)(Tool[]){
       Git, CMake, VSCode
     }
-  }
+  },
+  specialSkills: "🐢 Proud owner of an epic tech neck"
+                 "🦖 Cheers every time code execution speeds up by 0.01 seconds"
+                 "🏆 On a record-breaking caffeine-free streak (since 2022-09-05)"
 );
 
 FoodList_Append(
