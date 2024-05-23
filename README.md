@@ -6,9 +6,9 @@ SWEngineer* coding_pelican = new_SWEngineer(
     behaviour: (Behaviour*)new_PelicanLike(
       name: "Gyeongtae Kim"
     ),
-    hobby:  "📸 Photography"
-            "🏃🏻 Running & Jogging"
-            "🗣️ Learning languages"
+    hobby: "📸 Photography"
+           "🏃🏻 Running & Jogging"
+           "🗣️ Learning languages"
   ),
   mainDomain: "Game Engine Development",
   skills: (SkillList){
