@@ -1,6 +1,6 @@
-## 👋🏻 Hey, there! I'm Gyeongtae Kim.
+# 👋🏻 Hey, there! I'm Gyeongtae Kim.
 
-### 👨🏻‍💻 About Me
+## 💬 About Me
 
 ```c
 SWEngineer* coding_pelican = new_SWEngineer(
@@ -50,7 +50,7 @@ coding_pelican
 // 'Gyeongtae Kim' swallows '🍕Pizza' without chewing!
 ```
 
-### 📫 Contact Links
+## 📫 Contact Links
 
 - 📧 **Email**: <codingpelican@gmail.com>
 - 💻 **GitHub**: [https://github.com/coding-pelican](https://github.com/coding-pelican) - My GitHub profile for open-source projects and contributions.
