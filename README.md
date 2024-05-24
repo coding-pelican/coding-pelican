@@ -1,5 +1,10 @@
 # 👋🏻 Hey, there! I'm Gyeongtae Kim.
 
+<!--
+[Accessible Version for Users with Accessibility Needs]
+-->
+> **[Accessible Version](./README.a11y.md)**
+
 ## 💬 About Me
 
 ```c
