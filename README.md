@@ -1,5 +1,7 @@
 ## 김경태 Gyeongtae Kim
 
+### About Me
+
 ```c
 SWEngineer* coding_pelican = new_SWEngineer(
   person: new_Person(
