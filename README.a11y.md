@@ -34,11 +34,6 @@ When I'm not coding, you can find me indulging in photography, running, or learn
 - Cheers every time code execution speeds up by 0.01 seconds
 - On a record-breaking caffeine-free streak (since 2022-09-05)
 
-### Favorite Foods
-
-- Pizza
-- Chicken
-
 ## Contact Links
 
 - **Email**: <codingpelican@gmail.com>
