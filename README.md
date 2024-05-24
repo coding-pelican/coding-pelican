@@ -48,11 +48,13 @@ coding_pelican
 // 'Gyeongtae Kim' swallows '🍕Pizza' without chewing!
 ```
 
-- **Email** : <codingpelican@gmail.com>
-- **GitHub** : <https://github.com/coding-pelican>
-- **itch.io** : [Dev.Dasae](https://coding-pelican.itch.io/)
-- **Instagram** : [@dev.dasae](https://www.instagram.com/dev.dasae)
-- **Hashnode** : [Gyeongtae's Blog](https://dasae.hashnode.dev/)
+### Contact Links
+
+- 📧 **Email**: <codingpelican@gmail.com>
+- 💻 **GitHub**: [https://github.com/coding-pelican](https://github.com/coding-pelican) - My GitHub profile for open-source projects and contributions.
+- 🎮 **itch.io**: [Dev.Dasae](https://coding-pelican.itch.io/) - Check out my game development projects and releases.
+- 📷 **Instagram**: [@dev.dasae](https://www.instagram.com/dev.dasae) - Follow me for behind-the-scenes glimpses of my projects and personal life.
+- 📝 **Hashnode**: [Gyeongtae's Blog](https://dasae.hashnode.dev/) - Read my technical articles and tutorials on various programming topics.
 
 <!--
 [Show details...](https://dasae.hashnode.dev/)
