@@ -3,7 +3,7 @@
 <!--
 [Accessible Version for Users with Accessibility Needs]
 -->
-> **[Accessible Version](./README.a11y.md)**
+> **[🔗 Accessible Version](./README.a11y.md)**
 
 ## 💬 About Me
 
