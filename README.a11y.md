@@ -38,6 +38,8 @@ When I'm not coding, you can find me indulging in photography, running, or learn
 
 - **Email**: <codingpelican@gmail.com>
 - **GitHub**: [https://github.com/coding-pelican](https://github.com/coding-pelican) - My GitHub profile for open-source projects and contributions.
-- **itch.io**: [Dev.Dasae](https://coding-pelican.itch.io/) - Check out my game development projects and releases.
-- **Instagram**: [@dev.dasae](https://www.instagram.com/dev.dasae) - Follow me for behind-the-scenes glimpses of my projects and personal life.
 - **Hashnode**: [Gyeongtae's Blog](https://dasae.hashnode.dev/) - Read my technical articles and tutorials on various programming topics.
+- **Instagram**: [@dev.dasae](https://www.instagram.com/dev.dasae) - Follow me for behind-the-scenes glimpses of my projects and personal life.
+- **Threads**: [@dev.dasae](https://www.threads.net/@dev.dasae)
+- **X(Twitter)**: [@dev_dasae](https://x.com/dev_dasae)
+- **itch.io**: [Dev.Dasae](https://coding-pelican.itch.io/) - Check out my game development projects and releases.
