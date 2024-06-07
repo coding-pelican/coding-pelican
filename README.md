@@ -1,9 +1,9 @@
 # 👋🏻 Hey, there! I'm Gyeongtae Kim
 
+> **[🔗 Accessible Version](./README.a11y.md)**
 <!--
 [Accessible Version for Users with Accessibility Needs]
 -->
-> **[🔗 Accessible Version](./README.a11y.md)**
 
 ## 💬 About Me
 
@@ -101,7 +101,9 @@ It was fun but full of issues, as you'd expect from a first project:
 - 🤷‍♂️ "All the play story logs are gone!"
 
 ### To "I'll Create to Understand Better🤔"
-<-- ### To "I'll Create What I Needed to Better Understand🤔" -->
+<!--
+### To "I'll Create What I Needed to Better Understand🤔"
+-->
 
 > "What I cannot create, I do not understand."
 > — Richard Feynman
