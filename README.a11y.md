@@ -10,9 +10,9 @@ When I'm not coding, you can find me indulging in photography, running, or learn
 
 ### Skills
 
-**Languages:** C, C++, C#, Python
-**Engines:** Unity, Godot
-**Tools:** Git, CMake, VSCode
+- **Languages:** C, C++, C#, Python
+- **Engines:** Unity, Godot
+- **Tools:** Git, CMake, VSCode
 
 ### Special Skills
 
