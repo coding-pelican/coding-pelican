@@ -36,7 +36,7 @@ When I'm not coding, you can find me indulging in photography, running, or learn
 
 #### Once Upon a Time...
 
-There was a young boy with unusual hobbies: DOS game emulation and game localization. He was quite the oddball, though he didn't realize it at the time.
+There was a young boy with unusual hobbies: DOS game emulation and game localization. He was quite the geek, though he didn't realize it at the time.
 
 One day, curiosity struck him. Instead of developing games within a game development environment, he wondered what it would be like to develop games in the real world.
 
