@@ -8,48 +8,49 @@
 ## 💬 About Me
 
 ```c
-SWEngineer* coding_pelican = new_SWEngineer(
-  person: new_Person(
-    behaviour: (Behaviour*)new_PelicanLike(
-      name: "Gyeongtae Kim"
+let coding_pelican = SWEngineer_init(create$(SWEngineer_Config,
+    .allocator = allocator,
+    .behaviour = PelicanLike_behaviour(create$(Behaviour_Params,
+        .name = Str_l("Gyeongtae Kim")
+    )),
+    .hobby = Str_l(
+        "📸 Photography"
+        "🏃 Running & Jogging"
+        "🗣️ Learning languages"
     ),
-    hobby: "📸 Photography"
-           "🏃🏻 Running & Jogging"
-           "🗣️ Learning languages"
-  ),
-  mainDomain: "Game Engine Development",
-  skills: (SkillList){
-    .languages = (Skill*)(Language[]){
-      C, CPlusPlus, CSharp, Python
-    },
-    .engines = (Skill*)(Engine[]){
-      Unity, Godot
-    },
-    .tools = (Skill*)(Tool[]){
-      Git, CMake, VSCode
-    }
-  },
-  specialSkills: "🐢 Proud owner of an epic tech neck"
-                 "🦖 Cheers every time code execution speeds up by 0.01 seconds"
-                 "🏆 On a record-breaking caffeine-free streak (since 2022-09-05)"
-);
+    .main_domain = Str_l("Game Engine Development"),
+    .skills = create$(SkillList,
+        .languages = {
+            c, c_plus_plus, c_sharp, zig, rust, go, python, own
+        },
+        .engines = {
+            unity, godot, own
+        },
+        .tools = {
+            git, vscode
+        }
+    ),
+    .special_skills: Str_l(
+        "🐢 Proud owner of an epic tech neck"
+        "🦖 Cheers every time code execution speeds up by 0.01 seconds"
+        "🏆 On a record-breaking caffeine-free streak (since 2022-09-05)"
+    )
+));
+defer_(SWEngineer_fini(coding_pelican));
 
-FoodList_Append(
-  coding_pelican->person->favoriteFoods_,
-  new_Food("🍕Pizza")
-);
-FoodList_Append(
-  coding_pelican->person->favoriteFoods_,
-  new_Food("🐔Chicken")
-);
+try_(List_append(
+  coding_pelican->favorite_foods.base,
+  Food_init(Str_l"🍕Pizza")
+));
+try_(List_append(
+  coding_pelican->favorite_foods.base,
+  Food_init(Str_l"🐔Chicken")
+));
 
-coding_pelican
-  ->person
-  ->behaviour
-  ->IFoodEatable.EatFood(
-    (IFoodEatable*)coding_pelican->person->behaviour,
-    coding_pelican->person->favoriteFoods_->foods[0][0]
-  );
+for_slice (coding_pelican->favorite_foods->items, food) {
+    IFoodEatable_eatFood(coding_pelican
+        ->behaviour.base, food);
+}
 
 // output:
 // 'Gyeongtae Kim' swallows '🍕Pizza' without chewing!
