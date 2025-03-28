@@ -142,7 +142,3 @@ Understanding the "black box" of game engines is,
 I believe, The path to creating great software.
 
 </details>
-
----
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoding-pelican)](https://github.com/coding-pelican)
