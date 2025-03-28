@@ -21,13 +21,13 @@ let coding_pelican = SWEngineer_init(create$(SWEngineer_Config,
     .main_domain = Str_l("Game Engine Development"),
     .skills = create$(SkillList,
         .languages = {
-            c, c_plus_plus, c_sharp, zig, rust, go, python, own
+            own, c, c_plus_plus, c_sharp, zig, rust, go, python
         },
         .engines = {
-            unity, godot, own
+            own, unity, godot
         },
         .tools = {
-            git, vscode
+            own, git, vscode
         }
     ),
     .special_skills: Str_l(
@@ -40,11 +40,11 @@ defer_(SWEngineer_fini(coding_pelican));
 
 try_(List_append(
   coding_pelican->favorite_foods.base,
-  Food_init(Str_l"🍕Pizza")
+  Food_init(Str_l("🍕Pizza"))
 ));
 try_(List_append(
   coding_pelican->favorite_foods.base,
-  Food_init(Str_l"🐔Chicken")
+  Food_init(Str_l("🐔Chicken"))
 ));
 
 for_slice (coding_pelican->favorite_foods->items, food) {
