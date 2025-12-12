@@ -33,13 +33,13 @@ let dev_dasae = SWEngineer_init(create$((SWEngineer_Config)({
 })));
 defer_(SWEngineer_fini(&dev_dasae));
 
-let favorite_foods = dev_dasae->favorite_foods;
-try_(List$Food_append(favorite_foods, Food_init(u8_l("🍕Pizza"))));
-try_(List$Food_append(favorite_foods, Food_init(u8_l("🐔Chicken"))));
+let favorite_foods = &dev_dasae->favorite_foods;
+try_(List_append$Food(favorite_foods, Food_init(u8_l("🍕Pizza"))));
+try_(List_append$Food(favorite_foods, Food_init(u8_l("🐔Chicken"))));
 
 let eatable = PelicanLike_foodEatable(dev_dasae->behaviour);
-for_s((favorite_foods->items), (food, idx), {
-    io_stream_println("{:d}: {:s}", idx + 1, food->name);
+for_(($s(favorite_foods->items), $rf(0))(food, idx) {
+    io_stream_println("{:ul}: {:s}", idx + 1, food->name);
     FoodEatable_eatFood(eatable, food);
 });
 
