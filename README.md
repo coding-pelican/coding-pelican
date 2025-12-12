@@ -8,7 +8,7 @@
 ## 💬 About Me
 
 ```c
-let dev_dasae = SWEngineer_init(create$((SWEngineer_Config)({
+let dev_dasae = SWEngineer_init(make$((SWEngineer_Config)({
     .allocator = allocator,
     .behaviour = PelicanLike_behaviour(create$((Behaviour_Params)({
         .id   = StrCompHash_create(u8_l("coding-pelican")).value,
