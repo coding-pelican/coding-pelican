@@ -54,7 +54,7 @@ for_(($s(favorite_foods->items), $rf(0))(food, idx) {
 
 - 📧 **Email:** <codingpelican@gmail.com>
 - 💻 **GitHub:** [https://github.com/coding-pelican](https://github.com/coding-pelican) - My GitHub profile for open-source projects and contributions.
-- 📝 **Hashnode:** [Gyeongtae's Blog](https://dasae.hashnode.dev/) - Read my technical articles and tutorials on various programming topics.
+- 📝 **Hashnode:** [Gyeongtae's Blog](https://dasae-scenic-route.hashnode.dev/) - Read my technical articles and tutorials on various programming topics.
 - 📷 **Instagram:** [@dev.dasae](https://www.instagram.com/dev.dasae) - Follow me for behind-the-scenes glimpses of my projects and personal life.
 - 💬 **Threads:** [@dev.dasae](https://www.threads.net/@dev.dasae)
 - 🐦 **X(Twitter):** [@dev_dasae](https://x.com/dev_dasae)
